@@ -1,3 +1,19 @@
+# login Credentials
+[{
+        userName:'admin@admin.com',
+        password:'admin@123'
+    },{
+        userName:'author@admin.com',
+        password:'author@123'        
+    },{
+        userName:'client@admin.com',
+        password:'client@123'
+    },{
+        userName:'user@admin.com',
+        password:'user@123'
+    }]
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
